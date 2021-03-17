@@ -2,4 +2,4 @@
 
 Arkanoid desarrollado en Javascript.
 
-Para instalar, descargar y ejecutar en el navegador.
+Para instalar, descargar y ejecutar index.html en el navegador.
